@@ -1,5 +1,5 @@
 {
-    "name": "los/api-server",
+    "name": "zooxsmart/los-api-server",
     "description": "PHP api server middleware",
     "license": "MIT",
     "type": "library",
